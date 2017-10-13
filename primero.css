@@ -1,0 +1,15 @@
+.yellow,.gris{
+	height: 100px;
+	margin: 10px;
+	padding: 10px /*para cambiar margen del texto de contenido al interios */
+
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.gris{
+	background-color: gray;
+	color:#FFF;
+}
